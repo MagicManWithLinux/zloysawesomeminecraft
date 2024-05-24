@@ -4,8 +4,8 @@
 ## Установка
 Drag'n'Drop'аем зип в PrismLauncher. Заходим в свойства инстанции -> Моды -> Выделяем всё -> Проверить на обновления -> Modrinth.
 ## Скачать
-| Версия | Скачать                                                                                                                            | Список модов                                                                                    |
-|--------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| 1.20.4 | [Скачать](https://github.com/MagicManWithLinux/zloysawesomeminecraft/releases/download/1.20.4/Zloy.s.Awesome.Minecraft.1.20.4.zip) | [Список](https://github.com/MagicManWithLinux/zloysawesomeminecraft/blob/main/1.20.4%20mods.md) |
+| Версия | Скачать                                                                                                                        | Список модов                                                                                    |
+|--------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1.20.4 | [Скачать](https://github.com/MagicManWithLinux/zloysawesomeminecraft/releases/download/v2/Zloy.s.Awesome.Minecraft.1.20.4.zip) | [Список](https://github.com/MagicManWithLinux/zloysawesomeminecraft/blob/main/1.20.4%20mods.md) |
 
 <sup>Спасибо [вот этому сервису за таблицу](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)</sup>
